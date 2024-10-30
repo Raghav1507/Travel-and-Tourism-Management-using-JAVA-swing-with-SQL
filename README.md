@@ -5,8 +5,8 @@ The objective of the Travel and Tourism Management System project is to develop 
 ## Table of Contents
 
 - [INTRODUCTION](#INTRODUCTION )
-- [PROJECT OUTLINE](#PROJECTOUTLINE)
-- [IMPLEMENTATION BACKGROUND](#IMPLEMENTATIONBACKGROUND)
+- [PROJECT OUTLINE](#PROJECT-OUTLINE)
+- [IMPLEMENTATION BACKGROUND](#IMPLEMENTATION-BACKGROUND)
 - [CONCLUSION](#CONCLUSION)
 
 ## INTRODUCTION 
@@ -18,7 +18,7 @@ Problem Description
 In today's fast-paced world, the travel industry is witnessing unprecedented growth, driven by a burgeoning desire for exploration and adventure. But also, One of the primary pain points revolves around the inefficiencies  in traditional tour and travel management processes. Manual handling of bookings, planning plains , customer communications, and payment processing not only consumes valuable time and resources but also introduces the risk of errors and miscommunication, leading to frustrated customers and decreased the enthusiasm of whole family.
 Additionally, as the travel industry continues to evolve, so do consumer preferences and expectations. Modern travelers demand flexibility, transparency, and personalized experiences tailored to their unique interests and needs. Yet, many existing tour and travel management systems struggle to adapt to these changing dynamics, relying on outdated technologies and rigid frameworks that limit innovation and hinder customer satisfaction.
 
-## PROJECT OUTLINE 
+## PROJECT-OUTLINE 
 
 Database is a collection of related data and data is collection of facts and figure that can be procedure information. 
 Mostly data represents recordable facts. Data aids in producing information, which is based on facts. For example, if we have data about marks obtained by all students, we can then conclude about toppers and average marks. A Database management system stores data in such a way that it becomes easier to retrieve, manipulate, and produce information. 
@@ -30,7 +30,7 @@ We have also use SQL in your project.
 Java Database Connectivity (JDBC) is an application programming interface (API) for the programming language Java, which defines how a client may access a database. It is Java based data access technology and used for Java database connectivity. It is part of the Java Standard Edition platform, from Oracle Corporation. It provides methods to query and update data in a database, and is oriented towards relational databases. 
 
 
-## IMPLEMENTATION BACKGROUND 
+## IMPLEMENTATION-BACKGROUND 
 
 1) Technology Stack Selection: 
 We chose Java Swing and AWT for the frontend development due to their robustness, ease of use, and compatibility with NetBeans IDE. MySQL Workbench was selected as the backend database management system for its reliability, scalability, and widespread adoption in the industry. 
