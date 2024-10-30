@@ -66,3 +66,8 @@ Tourism is currently recognized as a global industry which is growing at a high 
 In the aspect of tourism, Internet and web technologies have made more readily available information on tourist locations, accommodations, transportation, shopping, food, festivals, and other attractions, thus improving the whole tourism experience. The process of the system we can consider here, can maintain the databases of the system. We can insert to the databases and retrieve all the information.
 The main aim of this project is to help the tourists to manage their trip. It makes all operation of the tour company easy and accurate. The standalone platform makes tourism management easy by handling requests and providing servers for the customers located at different parts of the various cities. Different modules have been incorporated in this project to handle different parts and sector of the tour management field.
 
+## PREVIEW 
+
+![Screenshot 2024-04-16 144835](https://github.com/user-attachments/assets/436bf48a-c2bd-4326-8a6a-2a48c2f8b94d)
+![Screenshot 2024-04-16 144911](https://github.com/user-attachments/assets/72c0da63-64fd-4df1-92c0-be206c6e1b1e)
+![Screenshot 2024-04-14 000821](https://github.com/user-attachments/assets/e7c1aa9c-357c-4a3a-ae0e-6d4ffde61214)
