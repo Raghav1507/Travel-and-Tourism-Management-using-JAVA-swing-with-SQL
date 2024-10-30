@@ -24,31 +24,31 @@ Java Database Connectivity (JDBC) is an application programming interface (API) 
 
 # 3. IMPLEMENTATION BACKGROUND 
 
-# Technology Stack Selection: 
+Technology Stack Selection: 
 We chose Java Swing and AWT for the frontend development due to their robustness, ease of use, and compatibility with NetBeans IDE. MySQL Workbench was selected as the backend database management system for its reliability, scalability, and widespread adoption in the industry. 
 
-# NetBeans IDE Integration: 
+NetBeans IDE Integration: 
 NetBeans IDE was chosen as our primary development environment due to its seamless integration with Java Swing, AWT, and MySQL. The intuitive user interface and extensive plugin ecosystem of NetBeans facilitated rapid development and debugging of our application. 
 
-# Database Design: 
+Database Design: 
 We designed the database schema using MySQL Workbench, considering factors such as data normalization, data integrity, and efficient query performance.Tables were created to store information related to hotels, customers, bookings, and tour packages, ensuring a structured and organized data storage system.
 
-# Frontend Development (Java Swing and AWT): 
+Frontend Development (Java Swing and AWT): 
 Utilizing the Swing framework, we designed the graphical user interfaces (GUIs) for the booking hotel page, customer details page, and package booking functionality. AWT components were integrated seamlessly to enhance the user experience and provide intuitive navigation and interaction within the application. 
 
-# Backend Development (Java, JDBC): 
+Backend Development (Java, JDBC): 
 Java was employed for the backend logic implementation, including database connectivity, data retrieval, manipulation, and transaction management. JDBC (Java Database Connectivity) was utilized to establish a
 connection between the Java application and the MySQL database, enabling seamless data interaction and retrieval. 
 
-# Book Hotel Page: 
+Book Hotel Page: 
 The book hotel page allows users to search for available hotels based on criteria such as location, dates, and preferences. Upon selecting a hotel, users can view detailed information including room types, amenities, and pricing before proceeding with the booking. 
 
-# Customer Detail Page: 
+Customer Detail Page: 
 The customer detail page captures essential information from users, including personal details, contact information, and payment preferences. Data validation and error handling mechanisms were implemented to ensure the accuracy and integrity of customer data entered into the system.
 
-# Package Booking Functionality: 
+Package Booking Functionality: 
 The package booking feature enables users to select from a range of pre-defined tour packages, each offering a unique itinerary and set of activities. Users can customize their package selections, add-ons, and preferences to tailor their travel experience according to their preferences and requirements. 
 
-# Testing and Debugging: 
+Testing and Debugging: 
 By leveraging the power of Java Swing, AWT, MySQL Workbench, and NetBeans IDE, we have successfully implemented a robust and user-friendly travel and tour management system that streamlines booking processes, enhances customer experiences, and facilitates efficient management of travel operations.
 
